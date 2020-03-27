@@ -1,0 +1,1 @@
+Выборка данных с названием "Планшеты", по столбцам с именем avg(price) из таблиц products и categories связанных ключевыми полями (id_category=categories.id)
